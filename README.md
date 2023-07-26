@@ -1,5 +1,4 @@
 # full-body-workout-web-application
-read the readme file as always.
 
 # Goals
 After learning concepts of panel framework, it’s time to create real world projects.
