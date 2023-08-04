@@ -2,7 +2,7 @@
 
 # Goals
 After learning concepts of panel framework, it’s time to create real world projects.
-The Idea is to make a sport related web application that helps people in their workout. If focuses on full body and has all the fundamentals of web app development. In this project I wish to work on options like creating user accounts and manipulating data.
+The Idea is to make a sport related web application that helps people in their workout. It focuses on full body and has all the fundamentals of web app development. In this project I wish to work on options like creating user accounts and manipulating data.
 
 # Objectives
 I developed 3 main pages using panel. Home page with some basic information about the app, register page for sign in or sign up and main page which is the user panel and is accessible when the user logs into the site. There is almost no HTML and CSS and I used only panel to create frontend and backend(despite the limitations of the framework in the server side development.).
